@@ -1,1 +1,1 @@
-My First GitHub project
+Learning Git and GitHub
